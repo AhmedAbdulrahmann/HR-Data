@@ -15,6 +15,16 @@ As a result of this project, I learned a great deal more about data visualizatio
 💡 Check all the details on GitHub- the completed project:
 https://github.com/AhmedAbdulrahmann
 
+# Files
+- excel Dashboard.xlsx - The main Excel file containing the sales dashboard.
+- Dashboard.png - A snapshot of the dashboard for quick reference.
+
+# Requirements
+- Microsoft Excel: The dashboard uses pivot tables and slicers, so Excel 2021 or later is recommended.
+
+# License
+This project is open-source and available under the MIT License.
+
 If you’re interested in developing this kind of dashboard and/or analyzing your data, please don’t hesitate to get in touch – it would be great to exchange opinions, and I’d like to hear what is done in this area by other specialists! 🙌
 
 
